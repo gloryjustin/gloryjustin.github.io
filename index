@@ -1,0 +1,75 @@
+<!DOCtype html>
+<html>
+<head>
+	<title> Ebere Resume </title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="resume">
+	<div><h1><a href="index.html">Eberechukwu Justin (Ebere)</a></h1></div>
+	<div class="education">
+		<h2>Education</h2>
+		<h3>Tufts University, Medford, MA</h3>
+		<p>
+			Bachelor of Science in Computer Science | Expected May 2021.
+			<br>Honors: Dean’s List Fall 2017
+		</p>
+		<h3>Dority Int’l Secondary School, Nigeria</h3>
+		<p>
+			High School Diploma (WASSCE) | July 2015
+			<span class ="inline-head">Awards:</span> Gold Medalist at Pan African Science Olympiad 2015 | National Champion Nigerian Chemistry
+			Olympiad 2014 | 3rd Best WASSCE Result State Level, Nigeria
+		</p>
+		<p>
+			<span class="inline-head">Relevant courses: </span>Introduction to Computer Science, Introduction to Computational Design, Calculus II, Web Programming, Discrete Math, Data Structures
+		</p>
+	</div>
+	<div class="experience">
+		<h2>Professional Experience</h2>
+		<h3>TUFTS UNIVERSITY CENTER FOR ENGINEERING EDUCATION AND OUTREACH (CEEO)</h3>
+		<p>
+			Web Designer | December 2018–Present
+			<ul>
+				<li>Maintain the Teacher Engineering Education (TEEP) Website</li>
+				<li>Design and maintain online classes for TEEP for the Spring and Summer 2018 semesters</li>
+				<li>Solve technical problems related to the online classes</li>
+			</ul>
+		</p>
+		<h3>STORYTELLER NIGERIA</h3>
+		<p>
+			Web Designer | January 2016–Present
+			<ul>
+				<li>Design and administer the User Interface(UI) for <a href="https://storytellerngr.com">Storyteller Nigeria</a>, a news and viral content site.</li>
+				<li>doubled average time spent on page by each user</li>
+			</ul>
+		</p>
+	</div>
+	<div class="skills">
+		<h2>Skills</h2>
+		<h3>Computer Skills</h3>
+		<p>
+			C++ | Python 3 | HTML | CSS | JavaScript | jQuery | Bootstrap | Adobe Photoshop | WordPress | MATLAB
+		</p>
+		<h3>Languages</h3>
+		<p>
+			English (Native Proficiency), Igbo (Native Proficiency), French (Limited Working Proficiency)
+		</p>
+	</div>
+	<div class="activities">
+		<h2>Activities</h2>
+		<h3>National Society of Black Engineers, Tufts Chapter </h3>
+		<p>
+			Member | September 2017–Present
+			<ul>
+				<li>Led a freshman project to boost attendance and participation in the organization</li>
+			</ul>
+		</p>
+		<h3>Tufts African Students Association</h3>
+		<p>
+			Member | September 2017–Present
+		</p>
+	</div>
+</div>
+</body>
+</html>
